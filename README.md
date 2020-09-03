@@ -1,4 +1,4 @@
-### My Name Is Matthew Turner, and IAm A Full Stack Web Developer 👋
+### My Name Is Matthew Turner, and I Am A Full Stack Web Developer 👋
 
 <!--
 **mattyturn95/mattyturn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
